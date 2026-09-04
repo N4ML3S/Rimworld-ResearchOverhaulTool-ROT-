@@ -9,7 +9,6 @@ In-game tool for creating total research overhauls.
 - Detects new / removed defs between sessions (useful when mods update or change names).
 - Lets you create custom research entries.
 - Saves everything in the mod settings (shareable).
-- Basic framework ready to expand into full assignment of objects → researches and dynamic research generation.
 
 ## Requirements
 
